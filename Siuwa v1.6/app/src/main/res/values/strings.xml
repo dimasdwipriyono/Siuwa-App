@@ -1,0 +1,276 @@
+<resources>
+    <string name="app_name">Siuwa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="harga_tiket">harga_tiket</string>
+    <string name="view_more">Lihat</string>
+    <string name="nama_wisata">Nama Wisata</string>
+    <string name="alamat">Alamat Wisata</string>
+    <string name="jam_buka">Jam Buka</string>
+    <string name="rating">4.2</string>
+    <string name="rating_text">Rating: </string>
+    <string name="namaWisata">Data Received</string>
+    <string name="detail_wisata">Detail Wisata</string>
+    <string name="alamat_text">Alamat:</string>
+    <string name="buka">Buka:</string>
+
+    <string-array name="data_name">
+        <item>Kutabawa Flower Garden</item>
+        <item>Jembatan Cinta Pring Wulung</item>
+        <item>Kampung Kurcaci</item>
+        <item>Jembatan Lampion Desa Bawahan</item>
+        <item>Curug Tempuran</item>
+        <item>Curug Nagasari</item>
+        <item>Gunung Sendaren</item>
+        <item>Bukit Mertelu</item>
+        <item>Puncak Sibarat</item>
+        <item>Puncak Gunung Slamet</item>
+        <item>Desa Wisata Serang</item>
+        <item>Bendungan Slinga</item>
+        <item> Sanggaluri Park</item>
+        <item>Telaga Situ Tirta Marta</item>
+        <item>Desa Wisata Panusupan</item>
+        <item>Owabong Waterpark</item>
+        <item>Jembatan Pelangi Sungai Gintung, Sumingkir</item>
+        <item>Rumah Pohon Igir Wringin</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Kutabawa Flower Garden merupakan spot wisata baru yang ada di Purbalingga. Andalannya tentunya adalah deretan bunga dan tanaman dengan warna-warna yang luar biasa.Beberapa spot dibuat menarik lewat pembangunan lanskap. Jadi Anda, pemburu tempat bagus untuk berfoto, bisa mengabadikannya dengan kamera.Beragam bunga-bunga nan cantik tersebar di sejumlah tempat. Setidaknya ada 18 jenis bunga dengan warna-warna indah.Ditambah lokasi yang sejuk dan adem, serta fasilitas yang lengkap dan wahana bermain yang beragam, susah sepertinya untuk tidak berlama-lama di sini.</item>
+        <item>Bagi Anda sepasang traveler, datang ke Jembatan Cinta Pring Wulung saat ke Purbalingga adalah keharusan.Spot wisata ini seakan menjadi simbol kedekatan Anda dan pasangan. Berfoto di sini pun harus dilakukan.Spotnya lumayan seru. Jembatan dari kayu dan bambu dibuat melingkar, dan di tengahnya berbentuk hati. Ada menara juga yang menjadi tempat berfoto tak kalah seru.Selain itu, pihak pengelola juga menjaga lingkungan di sekitarnya, yang menjadikan tempat ini menjadi asri dan Instagrammable!Silakan berfoto sepuasnya di sini. Dijamin hasilnya so sweet banget!</item>
+        <item>Tak hanya di Yogyakarta dan Lembang Bandung, para Bangsa Hobbit rupanya juga membuat ‘rumah’ di Purbalingga.Berada di kaki Gunung Slamet, spot bernama Kampung Kurcaci itu menampilkan dua rumah dengan ukuran kecil dan unik, juga berwarna mencolok. Bentuknya nyaris sama dengan rumah yang ditinggali Bilbo dan Frodo Baggins, kaum Hobbit di trilogi Lords of the Ring.Tapi jangan berharap Anda bisa bertemu dengan para kurcaci ini. Meski begitu, untuk mengobati kekecewaan, Anda masih bisa berfoto di depan ‘rumah’ mereka, kok! Hasilnya kece banget.Spot lain yang harus Anda kunjungi adalah hutan pinus dan Air Terjun Curug Lawang, yang berada dekat dengan lokasi. Anda juga bisa berkemah atau pun trekking di wilayah ini. Dan ada rumah pohon juga. Dijamin seru!</item>
+        <item>Satu lagi spot seru bagi Anda pecinta swafoto, jembatan lampion di tengah persawahan.Lokasinya ada di Dusun Bawahan, Desa Wisata Gunungwuled. Jadi bila Anda berkunjung ke Puncak Sibarat, sempatkan diri mampir di tempat yang juga instagenic ini.Konsepnya memang wisata malam. Dengan lampion-lampion cantik menyala berwarna-warni, kesannya mengena banget.Namun demikian, mengambil gambar yang keren di malam hari tentunya ada tantanga tersendiri, lho! Bila Anda ingin datang di kala hari masih terang juga tak masalah. Jembatan sepanjang 80 meter yang berada di atas persawahan ini juga menyuguhkan pemandangan yang keren, kok!</item>
+        <item>Dari kejauhan saja, hasrat untuk menceburkan diri langsung menggelora. Kesegaran air terjun/curug Tempuran memang tak terelakkan.Terletak tak jauh dari pusat kota Purbalingga, Curug Tempuran menawarkan kealamian lingkungan dan atmosfer yang menyegarkan. Pohon yang rindang dan aliran sungai yang tenang mewarnai spot wisata ini.Curug Tempuran juga memiliki kolam yang luas. Dijamin Anda bisa berenang dan menghabiskan waktu bermain di sini sepuasnya. Tapi tetap waspada, ya! Soalnya, kolam airnya cukup dalam.Sekadar bersantai di pinggir kolam, menikmati cucuran air dari tebing juga menjadi kegiatan yang mengasyikkan. Kapan lagi bisa menemukan ketenangan khas alam yang teduh dan asri setelah banting tulang di hari sibuk!</item>
+        <item>Liburan itu untuk menyegarkan pikiran, dan berkunjung ke Curug Nagasari niscaya kepenatan pikiran sesaat bisa hilang.Bagaimana tidak, berada di sini Anda akan menyaksikan air terjun yang ‘mendamaikan hati’. Dengan ketinggian lebih dari 75 meter, air dari puncak tebing bukannya jatuh langsung ke kolam di bawahnya, melainkan mengalir di sepanjang dinding tebing. Seperti meleleh.Menikmatinya dari jarak dekat pun sangat direkomendasikan, apalagi bermain air di bawahnya. Dijamin kedinginan. Air yang sejuk dan menyegarkan seakan menyapu hal buruk yang ada dalam diri kita.Tak ingin bermain air? Tak masalah. Menikmati pemandangan di sekitar curug juga hal yang menyenangkan. Anda bisa menyaksikan rimbunnya pepohonan, air sungai yang jernih dan bebatuan besar yang eksotis.Tapi ingat ya, bermain di alam jangan sampai merusak keindahannya, apalagi dengan membuang sampah yang tidak pada tempatnya.</item>
+        <item>Tak ada yang menyangkal Purbalingga memiliki alam yang luar biasa. Namun tak banyak yang tahu bagaimana cara tepat untuk menikmatinya.Salah satu yang layak dipertimbangkan adalah Gunung Sendaren. Dari sini, Anda bisa menyaksikan lanskap yang mengesankan dari alam Purbalingga.Perbukitan hijau ditambah angin dengan tiupan yang ringan dan langit biru nan cerah menjadi kesan pertama yang Anda dapatkan berkunjung ke spot ini. Setelahnya, Anda bisa mendapatkan apa pun yang diinginkan.Spot yang harus Anda jajaki adalah jembatan atas awan Puncak Sendaren yang terkenal itu. Berfoto di sini, hasilnya dijamin keren!Ada juga spot lain untuk berfoto yang tak boleh dilewatkan. Istagrammable lho!</item>
+        <item>Tak hanya bisa menyaksikan keindahan alam Purbalingga dari ketinggian dan berswafoto, Anda juga bisa berayun dengan ayunan ekstrim di Bukit Mertelu.Alam asri Purbalingga memang bisa Anda saksikan dengan leluasa dari sini, tapi yang jadi andalan adalah spot selfie-nya.Ada jembatan yang ujungnya adalah bentangan alam perbukitan Purbalingga, juga rumah pohon yang eksotik dari ranting pepohonan, dan yang paling menantang adalah bergelayutan di ayunan yang ekstrem.Tidak terlalu tinggi memang, tapi sensasi berayun di kaki langit, dengan background perbukitan nan hijau, Anda tak akan mendapatkannya di tempat lain.</item>
+        <item>Dari ketinggian 620 mdpl, Anda sudah bisa menikmati sunrise yang mengesankan tanpa harus pergi jauh dari Purbalingga untuk mendapatkannya.Puncak Sibarat di Gunung Wuled adalah spot yang Anda harus kunjungi untuk mendapatkan sensasi sunrise dari ketinggian. Jadi, tak harus ke Bromo, Semeru atau Rinjani, kan?Tak hanya spot keren untuk menyaksikan sunrise, Anda juga bisa ber-selfie dengan beberapa background yang menarik.Ada jembatan selfie plus menara setinggi tujuh meter, hutan pinus yang rindang, pemandangan gunung Sindoro dan Sumbing dari kejauhan dan rumah yang dibangun terbalik. Nah lho!</item>
+        <item>Ini adalah tantangan sebenar-benarnya para adventurer. Tidak hanya sekadar berfoto di bukit yang ketinggiannya hanya beberapa ratus meter dari permukaan air laut, tapi langsung menyongsong hari di puncak bumi. Adalah Gunung Slamet yang seharusnya jadi tujuan utama para traveler ketika datang ke Purbalingga. Gunung yang menjulang tinggi itu menantang semua orang untuk menggapai langit di puncaknya.Hadiah bagi mereka yang mau dan mampu adalah kepuasan yang luar biasa. Anda bisa menyaksikan keindahan alam, tidak hanya yang ada di Purbalingga, tapi juga yang Banyumas mau pun Brebes.Lanskapnya sendiri juga istimewa. Belum lagi jika Anda mengambil waktu khusus untuk secara sengaja menyaksikan sunrise dari puncaknya.Hanya saja trek yang harus dilalui cukup sulit karena minimnya sumber air. Dibutuhkan persiapan khusus untuk trekking. Tapi pastinya, kesan yang Anda dapatkan akan sangat luar biasa.</item>
+        <item>Berwisata dengan keluarga dengan tema alam di Purbalingga? Langsung saja menuju ke Desa Wisata Serang dan Anda akan mendapatkan pengalaman yang mengesankan.Ingin berada di tengah lebatnya hutan pinus sekaligus bersantai? Tak masalah. Di sini, Anda bisa menemukannya, bahkann berfoto dengan background yang epik.Berfoto di taman bunga? Boleh juga. Beragam bunga liar akan siap menyapa Anda dengan warna indahnya.Dan yang paling seru, Anda bisa memetik buah strawberry langsung di kebun jika memang sudah waktunya panen. Ingin ber-flying fox atau mengendarai motor ATV juga bisa.Beragamnya pilihan bersenang-senang di Serang dijamin membuat Anda dan keluarga betah. Ingin menginap pun tak masalah karena ada homestay yang siap dihuni. </item>
+        <item>Fungsi utamanya memang menjaga pasokan air di Purbalingga, tapi tak ada salahnya memanfaatkannya untuk kepentingan wisata, ya kan?Bendungan Slinga pun kini menjadi salah satu hot spot tourism di Purbalingga, terutama bagi para Instagrammer. Soalnya, hasil fotonya banyak yang keren.Jembatan bambu dengan balai-balai di bagian ujung adalah salah satu di antaranya. Spot lain yang boleh jadi rujukan adalah perahu di pinggir bendungan.Tapi untuk mendapatkan momen maksimal, datang di sore hari menjelang surup adalah waktu yang direkomendasikan. Anda bisa mendapatkan pemandangan ketika matahari turun ke peraduan dengan tenang, dan mengubah suasana menjadi syahdu. Keren abis!Oh iya, saat ini sedang dikembangkan konsep wisata taman dan wisata air dengan nama Bendung Slinga Park, lho!</item>
+        <item>ebagai traveler, ada kalanya juga nyali Anda diuji, seperti di Sanggaluri Park, yang memiliki ratusan ular dan jenis serangga.Taman ini merupakan taman edukasi yang dibangun untuk memberikan pengetahuan mengenai ular dan serangga. Hanya saja, kemasannya dibuat seru, dan mungkin sedikit menegangkan.Pengelola menantang mereka yang datang untuk menangkap ular yang tersebar di daerah khusus. Siapa yang mampu melakukannya mendapatkan suvenir menarik.Terlepas dari tantangan itu, taman ini juga menarik dan menyenangkan, juga pas untuk liburan keluarga. Ada berbagai wahana yang bisa dimainkan si kecil, seperti mobil mini, rumah balon hingga flying fox. </item>
+        <item>Siapa yang tak suka bermain dengan air? Apalagi bila airnya jernih dan menyegarkan. Belum lagi jika pemandangan dan atmosfernya juga cozy.Paket itu bisa Anda dapatkan di Situ Tirta Marta. Serunya, Anda juga bisa melakukan underwater photography dengan background seperti ‘surga’.Banyak spot keren untuk Anda bermain di bawah permukaan air. Pihak pengelola juga menyediakan sejumlah ‘benda yang tidak biasa’ ditemukan di dasar kolam.Spot ini mengingatkan kita akan Umbul Pongok di Klaten. Tapi, bila datang ke sini, Anda akan merasakan dan melihat keistimewaan yang berbeda.</item>
+        <item>Para traveler dan juga Instagrammer pasti kesengsem dengan spot ini. Banyak tempat yang bakal memanjakan mereka untuk berswafoto.Desa wisata Panusupan seakan mendedikasikan diri sebagai desa yang pas bagi para Instagrammer. Alam pemandangan yang indah, panorama yang luas biasa serta spot-spot yang menarik menjadi alasannya.Tak sedikit pula warga desa yang secara khusus menciptakan spot-spot menarik, termasuk di antaranya rumah berbentuk sarang burung dan jembatan bambu yang ikonik.Yang paling menarik adalah alamnya yang luar biasa. Karenanya, kamera adalah senjata utama kala berkunjung ke desa ini. </item>
+        <item>Semakin banyak saja tempat yang menyenangkan untuk bermain air, seperti di Owabong Park.Taman wisata air di Bojongsari ini menawarkan wahana yang berbeda dari taman air di tempat lain, yaitu ombak deras yang dioperasikan secara penuh dari pagi hingga sore.Diklaim oleh pengelola, Anda tak akan menemukan karakter ombak yang sama di tempat lain. Untuk membuktikannya Anda harus datang langsung ke Owabong.Selain ombak deras, beragam wahana lain siap memanjakan Anda dan keluarga. Dan jangan khawatir mengenai kualitas penunjang, yang membuat Anda semakin betah berada di sini.</item>
+        <item>Sebelumnya sekadar menjadi penghubung antardesa, kini jembatan tersebut menjadi tujuan utama para Instagrammer.Tak lain dan tak bukan karena jembatan itu sendiri yang memang instagenic. Jembatan ini dicat dengan warna yang mencolok, tapi mengesankan.Jembatan itu sendiri sebelumnya digambarkan warga seram dan menakutkan, karena selain sudah berumur lebih dari empat dekade, jembatan ini butuh perbaikan.Namun saat ini, situasinya sudah berbeda. Jembatan Pelangi kini menjadi daya tarik tersendiri. Tapi, untuk bisa ‘menikmati’nya, Anda harus meniti jembatan ini dengan sangat hati-hati dan tanpa alas kaki.</item>
+        <item>Lanskap Purbalingga dari ketinggian itu keren lho. Tapi yang lebih keren lagi adalah cara menikmatinya.Ada yang menyebut Igir Wringin sebagai Kalibiru-nya Purbalingga, lho!Di rumah pohon Igir Wringin, Anda tak hanya disuguhi pemandangan yang eksotik, panorama alam yang fantastis dan suasana yang menyenangkan, tapi juga rumah pohon unik yang tak akan Anda temui di tempat lain.Rumah pohonnya disusun dari banyak ranting pepohonan. Tapi jangan khawatir, kekuatan rumah pohon ini bisa dijamin, asal tidak melebihi kapasitas.Dari sini, Anda bisa menikmati lanskap perbukitan dan sawah di Purbalingga. Jangan lupa untuk berswafoto di sini ya.Tapi untuk sampai ke spot ini, usaha yang dibutuhkan tidak mudah. Meski demikian, setelah sampai lokasi, mata Anda akan dimanjakan, kok!</item>
+    </string-array>
+    <string-array name="item_photo">
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/07/15-1-by-rozaosaki-740x571.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/07/5-1-by-nanouceper_ncphoto-740x493.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/07/7-3-by-instapurwokerto-740x493.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/07/11-2-by-puputsningsih-740x555.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/07/1a-2-by-adit_aw-740x492.jpg</item>
+        <item>https://cdn-2.tstatic.net/travel/foto/bank/images/curug-gogor_20160728_140341.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/07/2a-1-by-septianjapar-740x555.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/07/2b-1-by-yofieart-740x490.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/07/2c-3-by-desa_wisata_gunungwuled-740x555.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/07/3-1-by-al_ansharr-740x670.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/07/4-3-by-aam_riyanto-740x493.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/07/6-3-by-evan_agustinaa-740x417.jpg</item>
+        <item>https://sikidang.com/wp-content/uploads/sanggaluri-park-purbalingga.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/07/9-3-by-frzl23-740x555.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/07/10-2-by-adityabagussantoso-740x555.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/07/12-1-by-nowoeka_-740x388.jpg</item>
+        <item>https://1.bp.blogspot.com/-Fk_DvoQ95-w/Vshve50YRHI/AAAAAAAAB0E/2ImDp8lr3fE/s1600/DSC_1040.JPG</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2018/07/14-1-by-toroshun_15-740x555.jpg</item>
+    </string-array>
+    <string-array name="data_alamat">
+        <item> Jl Raya Kutabawa, Karangreja, Purbalingga, Jawa Tengah.</item>
+        <item>Panusupan RT. 3 RW. 4, Kecamatan Rembang, Panusupan, Kec. Rembang, Kabupaten Purbalingga, Jawa Tengah</item>
+        <item>Serang, Karangreja, Kabupaten Purbalingga, Jawa Tengah</item>
+        <item>Dusun Bawahan, Desa wisata Gunungwuled, Kecamatan Rembang, Kabupaten Purbalingga</item>
+        <item> Jl. Raya Binangun No.18, Pengalusan, Pengalusan, Mrebet, Kabupaten Purbalingga, Jawa Tengah.</item>
+        <item>Dusun Pucungrumbak, Tanalum, Kec. Rembang, Kabupaten Purbalingga, Jawa Tengah</item>
+        <item>Jl. Ardi Lawet, Panusupan, Kec. Rembang, Kabupaten Purbalingga, Jawa Tengah.</item>
+        <item>Sangkanayu, Mrebet, Kabupaten Purbalingga, Jawa Tengah</item>
+        <item>Dusun Bawahan, Desa Gunungwuled, Kecamatan Rembang, Kabupaten Purbalingga, Jawa Tengah</item>
+        <item>Banyumas, Brebes, Tegal, Purbalingga, dan Pemalang, Jawa Tengah</item>
+        <item>Serang, Karangreja, Serang, Purbalingga, Kabupaten Purbalingga, Jawa Tengah.</item>
+        <item> Jl. Bendungan, Banjaran, Bojongsari, Kabupaten Purbalingga, Jawa Tengah.</item>
+        <item> Jalan Taman Reptile, Desa Kutasari, Kutasari, Purbalingga, Kabupaten Purbalingga, Jawa Tengah.</item>
+        <item>KKarangcegak, Kutasari, Kabupaten Purbalingga, Jawa Tengah. </item>
+        <item>Desa Panusupan, Kec. Rembang, Panusupan, Purbalingga, Kabupaten Purbalingga, Jawa Tengah</item>
+        <item> Jl. Raya Owabong No.1, Bojongsari, Kabupaten Purbalingga, Jawa Tengah.</item>
+        <item>Dusun Sumingkir, Desa Bantar Barang, Rembang Purbalingga, Jawa Tengah.</item>
+        <item>Desa Panusupan, Kec. Rembang, Panusupan, Purbalingga, Kabupaten Purbalingga, Jawa Tengah.</item>
+    </string-array>
+    <string-array name="data_buka">
+        <item>08.00 - 17.00 WIB</item>
+        <item>08.30 - 16.00 WIB</item>
+        <item>09.30 - 16.00 WIB</item>
+        <item>07.00 - 15.00 WIB</item>
+        <item>08.45 - 15.30 WIB</item>
+        <item>09.30 - 15.00 WIB</item>
+        <item>07.30 - 16.00 WIB</item>
+        <item>07.00 - 18.00 WIB</item>
+        <item>09.00 - 15.30 WIB</item>
+        <item>10.00 - 16.30 WIB</item>
+        <item>09.30 - 16.00 WIB</item>
+        <item>07.00 - 15.00 WIB</item>
+        <item>08.45 - 15.30 WIB</item>
+        <item>09.30 - 15.00 WIB</item>
+        <item>07.30 - 16.00 WIB</item>
+        <item>07.00 - 18.00 WIB</item>
+        <item>09.00 - 15.30 WIB</item>
+        <item>10.00 - 16.30 WIB</item>
+    </string-array>
+    <string-array name="data_harga">
+        <item>Rp. 10.000,-</item>
+        <item>Rp. 5.000,-</item>
+        <item>Rp. 12.000,-</item>
+        <item>Rp. 12.500,-</item>
+        <item>Rp. 7.000,-</item>
+        <item>Rp. 20.000,-</item>
+        <item>Rp. 12.500,-</item>
+        <item>Rp. 10.500,-</item>
+        <item>Rp. 2.000,-</item>
+        <item>Rp. 14.000,-</item>
+        <item>Rp. 7.500,-</item>
+        <item>Rp. 10.000,-</item>
+        <item>Rp. 10.500,-</item>
+        <item>Rp. 15.500,-</item>
+        <item>Rp. 18.000,-</item>
+        <item>Rp. 13.500,-</item>
+        <item>Rp. 12.700,-</item>
+        <item>Rp. 11.000,-</item>
+    </string-array>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="data_lat">
+        <item>-7.226633421003661</item>
+        <item>-7.275702359417305</item>
+        <item>-7.246566459258397</item>
+        <item>-7.285339402421573</item>
+        <item>-7.302309136530471</item>
+        <item>-7.279055030021967</item>
+        <item>-7.2591300612350205</item>
+        <item>-7.266598550771639</item>
+        <item>-7.2877820929702315</item>
+        <item>-7.240543642477698</item>
+        <item>-7.239949970019333</item>
+        <item>-7.359588162831282</item>
+        <item>-7.356425378853905</item>
+        <item>-7.333546090783627</item>
+        <item>-7.2738285018495485</item>
+        <item>-7.349236594124888</item>
+        <item>-7.323556283826231</item>
+        <item>-7.26734133640726</item>
+    </string-array>
+
+    <string-array name="data_lang">
+        <item>109.29282125254457</item>
+        <item>109.48806330135761</item>
+        <item>109.29960397756386</item>
+        <item>109.5539152143039</item>
+        <item>109.30758331746934</item>
+        <item>109.54205629861623</item>
+        <item>109.4858507835035</item>
+        <item>109.32179114100822</item>
+        <item>109.55218652743474</item>
+        <item>109.21444489137382</item>
+        <item>109.28805691262778</item>
+        <item>109.38505201021266</item>
+        <item>109.33113261222243</item>
+        <item>109.31373491449368</item>
+        <item>109.49839562047028</item>
+        <item>109.3496405543803</item>
+        <item>109.52547656631079</item>
+        <item>109.4989949699745</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="teks_tentang_siuwa">
+        Siuwa merupakan aplikasi berbasis android.Aplikasi SIUWA merupakan kependekan dari sistem informasi Wisata dan UMKM kabupaten Purbalingga.Dengan kondisi ekonomi yang sedang dalam tahap pemulihan setelah pandemi,siuwa app diharapkan mampu membantu masyarakat.Karena dalam aplikasi SIUWA memiliki berbagai macam fitur.Seperti informasi singkat desa wisata di purbalingga,dan menjembatani pelaku usaha umkm disekitar purbalingga untuk meningkatkan nilai daya jual yang bersaing.
+    </string>
+
+</resources>
