@@ -1,4 +1,4 @@
-# ASIX-TI2-PPB2122
+# Siuwa Aoo
 
 Siuwa merupakan aplikasi berbasis android yang diharapkan dapat membantu pengguna dalam mencari informasi wisata yang ada dikabupaten purbalingga. Pada aplikasi ini terdapat beberapa fitur yang sesuai dengan poin-poin yang telah disebutkan pada tugas besar mata kuliah pemrograman perangkat bergerak yaitu :
 - Terintegrasi dengan firebase
